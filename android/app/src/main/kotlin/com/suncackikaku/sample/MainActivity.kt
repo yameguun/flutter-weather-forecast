@@ -1,0 +1,6 @@
+package com.suncackikaku.sample
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
